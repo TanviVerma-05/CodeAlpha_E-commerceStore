@@ -21,6 +21,19 @@ A full-stack E-Commerce Store built using:
 - Order Processing
 - MongoDB Database Storage
 
+## Home Page
+
+![Home Page](screenshots/home.png)
+
+Home Page – Product listing page displaying available products with images, prices, and Add to Cart functionality.
+
+
+## Shopping Cart
+
+![Shopping Cart](screenshots/cart.png)
+
+Shopping Cart – Displays selected products, quantities, and total order amount before checkout.
+
 ## Run Locally
 
 ```bash
